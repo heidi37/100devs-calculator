@@ -2,25 +2,22 @@
 
 ### Goal: Build a Simple Calculator using JS OOP best practices
 
-### What it should look like:
+[View Live Project](https://heidifryzell.com/photosite/)
 
-![Calculator](calculator.jpg)
+<img src="./img/calculator.gif" alt="screenshot of a javascript calculator in action" />
 
-### How to submit your code for review:
+### Tech Used:
+<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5" alt="HTML5 badge" height="50"> <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3" alt="CSS3 badge" height="50"> <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript" alt="javascript badge" height="50">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Related Projects
+Here is my current portfolio:
+
+<table border="1">
+  <tr>
+    <td style="text-align: center;"><a href="https://heidifryzell.com">heidifryzell.com</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://heidifryzell.com"><img width="300" src="https://raw.githubusercontent.com/heidi37/my-python-portfolio/main/static/images/screenshot.png" alt="screenshot of web development portfolio built with Python" /></a></td>
+  </tr>
+</table>
